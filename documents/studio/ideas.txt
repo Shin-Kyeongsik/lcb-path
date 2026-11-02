@@ -1,0 +1,4 @@
+아이디어 메모
+
+- 'study', 'study notes', 'studio'는 앞부분이 같다.
+- 'stu'까지 치고 Tab을 누르면 어떻게 될까?
